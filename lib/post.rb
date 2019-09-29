@@ -9,4 +9,4 @@ class Post
 end
  
 hello_world = Title.new("Hello World", "Uncle Bob")
-uncle.bob = Author.new("Uncle Bob")
+uncle_bob = Author.new("Uncle Bob")
