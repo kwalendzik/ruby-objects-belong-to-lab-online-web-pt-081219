@@ -8,7 +8,5 @@ class Post
  
 end
  
-drake = Title.new("Drake", "rap")
-hotline_bling = Song.new("Hotline Bling")
- 
-hotline_bling.artist = drake
+hello_world = Title.new("Hello World", "Uncle Bob")
+uncle.bob = Author.new("Uncle Bob")
