@@ -7,6 +7,3 @@ class Post
  end
  
 end
- 
-hello_world = Title.new("Hello World", "Uncle Bob")
-uncle_bob = Author.new("Uncle Bob")
